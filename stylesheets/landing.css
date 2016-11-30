@@ -10,13 +10,6 @@ body.landing * {
   -webkit-transition: all .3s ease;
   transition: all .3s ease;
 }
-body.landing .menubar {
-  position: fixed;
-  top: 0;
-  left: 0;
-  z-index: 1;
-  width: 100%;
-}
 body.landing .menubar div {
   margin: 0 auto;
   max-width: 1440px;
