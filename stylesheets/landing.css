@@ -18,10 +18,8 @@ body.landing .menubar {
   width: 100%;
 }
 body.landing .menubar div {
-  width: 100%;
   margin: 0 auto;
-  position: fixed; /* удалить при раскрытии камента внизу*/
-  /*min-width: 1440px;*/
+  max-width: 1440px;
 }
 
 .compact {
